@@ -1,0 +1,13 @@
+h1 {
+    font-size: 40px;
+    color: orange;
+    background-color: blue;
+    text-align: center;
+}
+
+.bullet {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-indent: 20px;
+    border: 5px;
+}
